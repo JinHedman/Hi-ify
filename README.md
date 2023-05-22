@@ -4,12 +4,12 @@ After you have to open a second terminal, cd into the server subfolder and run t
 The application requires some node_modules to run though and also a firebaseConfig both which are in the gitignore and therefore not included in the repository!
 
 **SHORT DESCRIPTION:**
-Our project is simple web application to let users generate custom Spotify playlists based on multiple peoples music preferences, it will base it on attributes such as genre and artists. 
+Our project is simple 'b application to let users generate custom Spotify playlists based on multiple peoples music preferences, it will base it on attributes such as genre and artists. 
 
-We use the Spotify API to get this information about the users. One user will create a room, and other users will authenticate themselves on separate devices and can then join the room with a three digit code. Users in the same room will see each others profile pictures and can generate a mixed playlist from all users music taste. This Playlist is saved as a playlist for the host of the room.
+I make use of the Spotify API to get this information about the users. One user will create a room, and other users will authenticate themselves on separate devices and can then join the room with a three digit code. Users in the same room will see each others profile pictures and can generate a mixed playlist from all users music taste. This Playlist is saved as a playlist for the host of the room.
 
 
-**WHAT WE HAVE DONE:**
+**DONE:**
 Came up with structure for app.
 
 Created the skeleton for the app as in the all the views and presenters that will be used. 
@@ -25,7 +25,7 @@ let a user create a room
 Set up a working system for adding users to the room using a code.
 
 
-**WHAT WE PLAN TO DO:**
+**PLANNING:**
 Add so that users can choose playlist to "contribute" to the generated mix
 Add so that users in the room can also save the generated playlist and not just the 
 
