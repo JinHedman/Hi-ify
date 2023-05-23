@@ -1,3 +1,6 @@
+**A PROJECT USING SPOTIFY'S API**
+Was previously in my KTH github
+
 **HOW TO RUN LOCALLY:**
 If you want to run the application locally you have to be inside the Hi-ify main folder and cd into the client subfolder, you then run "npm start".
 After you have to open a second terminal, cd into the server subfolder and run the command "node server.js".
